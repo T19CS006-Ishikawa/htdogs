@@ -1,6 +1,6 @@
 <?php 
     echo "Deploy test of using Git and Heroku" 
-
+    //　開発トークン　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
 
 /*
 
