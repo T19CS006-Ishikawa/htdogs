@@ -25,7 +25,6 @@
         'token' => (string) 'en',
     ],
     (array) [
-    
         'name' => (string) 'Deutsch',
         'token' => (string) 'de',
     ],
