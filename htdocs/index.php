@@ -1,9 +1,9 @@
 <?php 
     echo "Deploy test of using Git and Heroku" 
-    //　開発トークン　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
+
 
 /*
-
+　edtit
 
   $browser_language = (string) (isset($_SERVER['HTTP_ACCEPT_LANGUAGE']) === true && $_SERVER['HTTP_ACCEPT_LANGUAGE'] !== '') ? strtok(strip_tags($_SERVER['HTTP_ACCEPT_LANGUAGE']), ',') : '';
   $browser_language = (isset($_GET['language']) === true && $_GET['language'] !== '') ? $_GET['language'] : $browser_language;
