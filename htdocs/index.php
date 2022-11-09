@@ -1,6 +1,5 @@
 <?php 
-    echo "Hello World!"
-
+    echo "Deploy test of using Git and Heroku" 
 
 
 /*
