@@ -1,5 +1,11 @@
 {
     "require": {
-        "linecorp/line-bot-sdk": "^7.5"
+        "linecorp/line-bot-sdk": "^7.5",
+        "composer/composer": "^2.4"
+    },
+    "config": {
+        "platform": {
+            "php": "7.4.21"
+        }
     }
 }
